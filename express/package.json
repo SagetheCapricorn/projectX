@@ -1,0 +1,9 @@
+{
+    "name": "express",
+    "description": "express routing folder",
+    "version": "1.0.0",
+    "dependencies": {},
+    "scripts": {
+        "dev": "nodemon router.js"
+    }
+}
