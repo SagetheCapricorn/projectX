@@ -1,0 +1,13 @@
+# This file handles the express routing portion of our code.'
+
+## What we Have so far
+Currently we have a database architecture setup for the dummy data but need to change to fit real info.
+This routuing also isnt complete so far we only have one DOA and one route. Need to add more routes and possibly another DOA.
+
+### Where are things
+Routes are written in the ./api folder we only have the basic / route. 
+
+
+
+####
+Still not sure if we need express but gonna set it up anyway and look to convert to serverless at the end.
