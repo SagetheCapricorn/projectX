@@ -1,3 +1,11 @@
 This is the birth of our project. Kevin and I shall enrich our skills by making something cool.
 
 # Initial idea we make a react webscrapper
+## We want to add in CI/CD just for fun theres no real reason but it would be a cool addition
+Few things to setup first:
+First we need to link github ti circleci with  githooks 
+Then we need to setup express and mongo connections
+then we need to link react to expresss 
+I think this is the proper order
+Make everything async if possible?
+best practices?
